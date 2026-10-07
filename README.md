@@ -1,6 +1,6 @@
 # PetroGulf Vessel Tracking POC — demo package
 
-**Open the demo:** [Launch in WordPress Playground](https://playground.wordpress.net/?blueprint-url=https%3A%2F%2Fraw.githubusercontent.com%2Fmicahharipersad%2Fpetrogulf-vessel-tracking-poc-demo%2Fmain%2FPetroGulf-WordPress-Playground-Demo.zip)
+**Open the demo:** [Launch in WordPress Playground](https://playground.wordpress.net/?blueprint-url=https%3A%2F%2Fraw.githubusercontent.com%2Fmicahharipersad%2Fpetrogulf-vessel-tracking-poc-demo%2Fmaster%2FPetroGulf-WordPress-Playground-Demo.zip)
 
 This repository hosts the public Blueprint bundle for a sample-data WordPress proof of concept. The Playground instance is recreated in each visitor's browser; this repository only makes the setup package available at a stable public URL.
 
